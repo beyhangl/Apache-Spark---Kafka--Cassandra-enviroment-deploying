@@ -1,0 +1,1 @@
+This repo gives idea to deploye an real time big data enviroment which contains Apahce Spark-Apache Kafka and Cassandra database
