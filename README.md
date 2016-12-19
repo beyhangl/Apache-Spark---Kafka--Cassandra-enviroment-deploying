@@ -7,9 +7,17 @@ Please install firstly
 
 
 *Zookeeper
+
+
 *Apache Kafka
+
+
 *Apache Spark (1.6.0 used)
+
+
 *Cassandra
+
+
 
 Requirements
 
